@@ -1,3 +1,3 @@
-# smoldrive
+# pupdrive
 
-A very smol drive for tetrode recordings in pups and other smol animals
+An ultra low torque drive for tetrode recordings in pups and other small animals
