@@ -363,7 +363,7 @@
   )
 
   (no_connect (at 86.36 55.88) (uuid 65e5d8c7-b341-4f98-b683-c7694e8bc891))
-  (no_connect (at 119.38 68.58) (uuid 65e5d8c7-b341-4f98-b683-c7694e8bc891))
+  (no_connect (at 119.38 68.58) (uuid 65e5d8c7-b341-4f98-b683-c7694e8bc892))
 
   (wire (pts (xy 104.14 48.26) (xy 104.14 55.88))
     (stroke (width 0) (type default) (color 0 0 0 0))
